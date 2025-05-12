@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @froginstarch
 - 👀 I’m interested in game dev and programming in general
-- 🌱 I’m currently learning Haskell, C, C#, Java
+- 🌱 I’m currently learning Java, C#
 - 💞️ I’m looking to collaborate on somwthing... im not too sure yet 😅
 - 📫 How to reach me: jacphi96@gmail.com
 - 😄 Pronouns: he/him
